@@ -2,7 +2,7 @@
 
 Hello everyone, This is Akash. I have seen lot of hype about serverless in recent days. I first heard about serverless in 2018 when I was in college and it was the time I donot have any idea about software development. Now I have pretty good experience with development and here I would like to talk about how I started with serverless and some basic things you need to know to get started. Lets jump in!!
 
-## First step - 
+## First step - Introduction
 
 This pandemic has given me lot of time to get introduced with new technologies and advancements in existing ones. In any application development, the developer should take care of everything right from writing code to deploying it. And when we want to scale our application we may need to use docker, kubernetes, aws load balancers etc which require some provision. What if there is a way in which we can concentrate only on developing business logic without worrying about scaling infrastructure? This is what serverless offers us.
 
@@ -10,7 +10,7 @@ If you think there are no servers involved in serverless, then you are wrong. Ev
 
 ## Second step - Making hands dirty
 
-The Serverless Framework helps you develop and deploy your AWS Lambda functions, along with the AWS infrastructure resources they require. To keep things simpler, I will show you how to install serverless using npm. You need to have npm in your system!
+AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. The Serverless Framework helps you develop and deploy your AWS Lambda functions, along with the AWS infrastructure resources they require. To keep things simpler, I will show you how to install serverless using npm. You need to have npm in your system!
 
 ```sh
 $ npm install -g serverless
