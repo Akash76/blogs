@@ -4,9 +4,9 @@ Hello everyone, This is Akash. I have seen lot of hype about serverless in recen
 
 ## First step - Introduction
 
-This pandemic has given me lot of time to get introduced with new technologies and advancements in existing ones. In any application development, the developer should take care of everything right from writing code to deploying it. And when we want to scale our application we may need to use docker, kubernetes, aws load balancers etc which require some provision. What if there is a way in which we can concentrate only on developing business logic without worrying about scaling infrastructure? This is what serverless offers us.
+This pandemic has given a lot of time to get introduced with new technologies and advancements in existing ones. In any application development, the developer should take care of everything right from writing code to deploying it. And when we want to scale our application we may need to use docker, kubernetes, aws load balancers etc which require some provision. What if there is a way in which we can concentrate only on developing business logic without worrying about scaling infrastructure? This is what serverless offers us.
 
-If you think there are no servers involved in serverless, then you are wrong. Even I was wrong when I first heard about it. The thing is serverless makes the development work much more easier and there is no need to worry about infrastructure. Our only work is to design good work flow, write efficient code, test it and deploy it. And we are done. Our service provider will take care of rest. Do you want to see how? Lets see...
+If you think there are no servers involved in serverless, then you are wrong. Even I was wrong when I first heard about it. The thing is serverless makes the development work much more easier and there is no need to worry about infrastructure. Our only work is to design good work flow, write efficient code, test it and deploy it. And we are done. Our service provider will take care of rest. Do you want to know how? Lets see...
 
 ## Second step - Making hands dirty
 
